@@ -5,3 +5,5 @@ These are some of the works of Mingyu and Yi-Chieh.
 Other things that I need to consider ...
 
 This is just a note.
+
+Additional things to work on: 
