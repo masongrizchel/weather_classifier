@@ -7,5 +7,3 @@ These are some of the works of Mingyu and Yi-Chieh.
 A test.
 
 A test.
-
-A test.
